@@ -1,1 +1,1 @@
-"git learning"
+echo "git learning"
