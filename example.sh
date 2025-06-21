@@ -1,1 +1,1 @@
-"Welcome to git learning"
+#!/bin/bash
