@@ -1,1 +1,1 @@
-echo "git learning"
+echo "git and jenkins learning"
